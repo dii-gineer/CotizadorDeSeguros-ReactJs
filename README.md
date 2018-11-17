@@ -1,6 +1,0 @@
-
-
-## Descripcion
-Esta aplicacion es un cotizador de seguros de auto desarrollado con react js  (This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app))  
-
-
